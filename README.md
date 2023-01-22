@@ -9,7 +9,7 @@ This FiveM-ESX Garage script is compatoble with [SH59_Keysystem](https://github.
 #### Features
 - Compatible with SH59_Keysystem
 - Easy Configuration (config.lua)
-~~- Choose between UI and ESX-Menu-Default~~ *(not yet available)*
+- ~~Choose between UI and ESX-Menu-Default~~ *(not yet available)*
 - Choose between Ped (NPC) and Marker
 - Choose if you want to use SH59_Keysystem
 
