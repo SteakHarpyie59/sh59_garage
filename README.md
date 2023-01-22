@@ -18,8 +18,8 @@ This FiveM-ESX Garage script is compatoble with [SH59_Keysystem](https://github.
 - mysql-async
 
 #### Compatible Scripts
-[SH59_Keysystem](https://github.com/SteakHarpyie59/sh59_keysystem)
-[esx_carlock (optimized fork)](https://github.com/SteakHarpyie59/esx_carlock)
+- [SH59_Keysystem](https://github.com/SteakHarpyie59/sh59_keysystem)
+- [esx_carlock (optimized fork)](https://github.com/SteakHarpyie59/esx_carlock)
 
 ## Reporting Bugs / Feature Request
 To report bugs or request features, please use the Issuses tab.
